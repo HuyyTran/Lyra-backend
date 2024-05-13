@@ -1,0 +1,3 @@
+[submodule "front_end"]
+	path = front_end
+	url = git@github.com:hitonichi/lyra-frontend.git
