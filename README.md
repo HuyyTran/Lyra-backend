@@ -7,8 +7,8 @@ Lyra is a Vietnamese e-commerce platform tailored specifically for beauty produc
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [License](#license)
 - [Contributors](#Contributor)
+- [License](#license)
 
 ## Features
 ### System Capabilities
