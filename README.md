@@ -2,8 +2,7 @@
 
 ## About the Project
 
-Lyra is a Vietnamese e-commerce platform tailored specifically for beauty products, designed to enhance user experience with personalized shopping, high-quality products, and expert guidance. This project is structured into two primary components: the backend and the frontend, each housed in its respective subfolder.
-
+Lyra is a Vietnamese e-commerce platform tailored specifically for beauty products, designed to enhance user experience with personalized shopping, high-quality products, and expert guidance.
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
