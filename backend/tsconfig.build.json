@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["node_modules", "test", "dist", "**/*spec.ts"],
+  "include": [
+    "src",
+    "src/**/*.ts",
+    "schemas/**/*.ts",
+    "@types/**/*.d.ts",
+    "node_modules/axios",
+    "node_modules/redux-thunk"
+  ]
+}
